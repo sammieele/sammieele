@@ -1,4 +1,3 @@
-![screenshot](https://github.com/sammieele/sammieele/assets/155572963/96109e1d-8c6b-41a1-945d-60c633d84192)
 ### Hey there! :cloud:
 My name is Sammie Le. I am a high school senior at Walpole High.
 * :8ball: HTML / CSS / Arduino / Adobe Photoshop / AutoCAD
@@ -13,6 +12,8 @@ My name is Sammie Le. I am a high school senior at Walpole High.
 <br>
 ![sammieele's Stats](https://github-readme-stats.vercel.app/api?username=sammieele&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 </details>
+
+![screenshot](https://github.com/sammieele/sammieele/assets/155572963/9d2999af-d443-4187-a82d-e39c38eb60f9)
 
 ![octocat-1704409371053__1_-removebg-preview](https://github.com/sammieele/sammieele/assets/155572963/fc5da564-5d9c-4d35-b996-e6cb9d820041)
 
