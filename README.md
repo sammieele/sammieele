@@ -1,5 +1,5 @@
 ### Hey there! :cloud:
-My name is Sammie Le. I am a highschool senior at Walpole High.
+My name is Sammie Le. I am a high school senior at Walpole High.
 * :8ball: HTML / CSS / Adobe Photoshop / CAD / Arduino
 * :rice_ball: Currently looking to major in Biology/CS in college
 * :cloud: Ask me about digital media, boba or kpop
