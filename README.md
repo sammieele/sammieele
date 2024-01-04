@@ -2,8 +2,8 @@
 My name is Sammie Le. I am a high school senior at Walpole High.
 * :8ball: HTML / CSS / Arduino / Adobe Photoshop / AutoCAD
 * :rice_ball: Currently looking to major in Biology/CS in college
-* :cloud: Ask me about digital media, boba or kpop
-* :headphones: Feel free to reach out with questions ~~or internship offers~~ at lesammie2005@gmail.com
+* :cloud: Ask me about digital media, ~~my crippling boba addiction~~ or kpop
+* :headphones: Feel free to reach out with questions or internship offers at lesammie2005@gmail.com
 
 <details>
 <summary>My GitHub Stats :white_heart:</summary>
