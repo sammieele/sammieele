@@ -15,5 +15,4 @@ My name is Sammie Le. I am a high school senior at Walpole High.
 
 ![screenshot](https://github.com/sammieele/sammieele/assets/155572963/9d2999af-d443-4187-a82d-e39c38eb60f9)
 
-![octocat-1704409371053__1_-removebg-preview](https://github.com/sammieele/sammieele/assets/155572963/fc5da564-5d9c-4d35-b996-e6cb9d820041)
-
+![octocat1](https://github.com/sammieele/sammieele/assets/155572963/a77045af-e9a0-4368-b6c7-26800aa98d45)
