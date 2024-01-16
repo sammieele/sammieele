@@ -5,6 +5,7 @@ My name is Sammie Le. I am a high school senior at Walpole High.
 * :cloud: Ask me about digital media, ~~my crippling boba addiction~~ or kpop
 * :headphones: Feel free to reach out with questions or internship offers at lesammie2005@gmail.com
 
+### [Check out my Portfolio](https://sammieele.github.io/Portfolio/)
 <details>
 <summary>My GitHub Stats :white_heart:</summary>
 
