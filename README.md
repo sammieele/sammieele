@@ -1,5 +1,5 @@
 ### Hey there! :cloud:
-My name is Sammie Le. I am a high school senior at Walpole High.
+My name is Sammie Le. I am an incoming freshman at UMass Amherst.
 * :8ball: HTML / CSS / Arduino / Adobe Photoshop / AutoCAD
 * :rice_ball: Currently looking to major in Biology/CS in college
 * :cloud: Ask me about digital media, ~~my crippling boba addiction~~ or kpop
