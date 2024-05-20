@@ -5,7 +5,7 @@ My name is Sammie Le. I am an incoming freshman at UMass Amherst.
 * :cloud: Ask me about digital media, ~~my crippling boba addiction~~ or kpop
 * :headphones: Feel free to reach out with questions or internship offers at lesammie2005@gmail.com
 
-### [Check out my Portfolio][(https://sammieele.github.io/Portfolio/](https://sammieele.github.io/updatedPortfolio/)
+### [Check out my Portfolio](https://sammieele.github.io/updatedPortfolio/))
 <details>
 <summary>My GitHub Stats :white_heart:</summary>
 
