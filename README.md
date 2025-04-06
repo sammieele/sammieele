@@ -4,7 +4,7 @@ My name is Sammie Le. I am an honors freshman at the University of Massachusetts
 * :rice_ball: Currently majoring in Human-Computer Interaction and Design, minoring in Information Technology
 * :cloud: Ask me about digital design, ~~my crippling boba addiction~~ or k-pop
 * :headphones: Feel free to reach out with questions or internship offers at samanthale@umass.edu
-### [Check out my Portfolio](https://jujubedesigns.wixstudio.com/sammiele))
+### [Check out my Portfolio](https://jujubedesigns.wixstudio.com/sammiele)
 <details>
 <summary>My GitHub Stats :white_heart:</summary>
 
