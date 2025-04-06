@@ -1,10 +1,10 @@
 ### Hey there! :cloud:
-My name is Sammie Le. I am a freshman at the University of Massachusetts Amherst.
-* :8ball: HTML / CSS / Arduino / Adobe Photoshop / AutoCAD
-* :rice_ball: Currently majoring in Human-Computer Interaction and Design
-* :cloud: Ask me about digital media, ~~my crippling boba addiction~~ or kpop
+My name is Sammie Le. I am an honors freshman at the University of Massachusetts Amherst.
+* :8ball: HTML / CSS / Python / Adobe CC / Wix / Canva
+* :rice_ball: Currently majoring in Human-Computer Interaction and Design, minoring in Information Technology
+* :cloud: Ask me about digital design, ~~my crippling boba addiction~~ or k-pop
 * :headphones: Feel free to reach out with questions or internship offers at samanthale@umass.edu
-### [Check out my Portfolio](https://sammieele.github.io/updatedPortfolio/)
+### [Check out my Portfolio]([https://sammieele.github.io/updatedPortfolio/](https://jujubedesigns.wixstudio.com/sammiele))
 <details>
 <summary>My GitHub Stats :white_heart:</summary>
 
