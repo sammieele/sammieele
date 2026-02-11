@@ -5,8 +5,5 @@ My name is Sammie Le. I am an honors sophomore undergrad student at the Universi
 * :cloud: Ask me about digital design, ~~my crippling boba addiction~~ or k-pop
 * :headphones: Feel free to reach out with questions or internship offers at samanthale@umass.edu
 ### [Check out my Portfolio](https://lesammie20051.wixsite.com/sammiele)
-<details>
-
-
 
 ![screenshot](https://github.com/sammieele/sammieele/assets/155572963/9d2999af-d443-4187-a82d-e39c38eb60f9)
